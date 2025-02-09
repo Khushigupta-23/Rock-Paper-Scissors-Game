@@ -31,3 +31,6 @@ Improved DOM manipulation skills
 Enhanced event handling in JavaScript
 
 Learned how to add animations and smooth UI transitions
+
+## Live Demo 
+https://khushigupta-23.github.io/Rock-Paper-Scissors-Game/
